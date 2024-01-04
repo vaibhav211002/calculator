@@ -73,13 +73,13 @@ body {
   }
 
   button.equal {
-    background-color: #07b8fe;
+    background-color: #40ff0b;
     color: #fff;
     border-color: #46b8da;
   }
 
   button.equal:active {
-    background-color: #14c6fc;
+    background-color: #16ec13;
   }
 
 #allclear button{
